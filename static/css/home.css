@@ -1,0 +1,24 @@
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #000000;
+    font-size: 22px;
+}
+
+.navbar-custom {
+            background-color: #FCF279;
+        }
+
+.list-group-item{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 21px;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+}
+
+
+a{
+    font-family: 'Poppins', sans-serif;
+
+}
